@@ -48,12 +48,6 @@ Skills: HTML/CSS/Boostrap/Scss?JavaScript/React.js/Node.js
     </a>
   </p>
 
-  <p align="center">
-        
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
 </p>
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
 
